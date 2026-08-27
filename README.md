@@ -1,5 +1,4 @@
-Hi, I'm Rüveyda 👋
-
+# Hi, I'm Rüveyda 👋
 I build software projects focused on backend development, web applications, data communication, and parametric geometry.
 
 🚀 Featured Projects
