@@ -1,77 +1,103 @@
 # Hi, I'm Rüveyda 👋
-I build software projects focused on backend development, web applications, data communication, and parametric geometry.
+
+I build software projects focused on **backend development, web applications, data communication, and parametric geometry.**
 
 ## 🚀 Featured Projects
+
 ### 🚪 Drawing Automation
 
-Parametric door geometry and technical drawing application built with ASP.NET Core.
+Parametric door geometry and technical drawing application built with **ASP.NET Core**.
 
-Highlights
+#### Highlights
 
-Parametric door geometry
+- Parametric door geometry
+- 2D technical drawing
+- DXF export
+- Decorative panel geometry
+- 2.5D / 3D surface preview
+- OBJ model export
+- JSON project save/load
+- Password-protected access
 
-2D technical drawing
+**Tech:** C# · ASP.NET Core · JavaScript · HTML · CSS · DXF · OBJ
 
-DXF export
+---
 
-Decorative panel geometry
+### 🚗 Rent A Car
 
-2.5D / 3D surface preview
+Desktop car rental management application.
 
-OBJ model export
+**Tech:** C# · .NET Framework · WinForms · SQLite
 
-JSON project save/load
+🔗 [View Repository](https://github.com/bayramruveyda/rent-a-car)
 
-Password-protected access
+---
 
-Tech: C# · ASP.NET Core · JavaScript · HTML · CSS · DXF · OBJ
-
-🚗 Rent A Car
-
-Desktop car rental application.
-
-Tech: C# · .NET
-
-🏨 Hotel Reservation System
+### 🏨 Hotel Reservation System
 
 Web-based hotel reservation system with authentication and database-backed workflows.
 
-Tech: PHP · JavaScript · HTML · CSS · SQL
+**Tech:** PHP · MySQL · JavaScript · HTML · CSS
 
-🌐 Data Communication Project
+🔗 [View Repository](https://github.com/bayramruveyda/otel-rezervasyon-sistemi)
 
-Java-based client/server communication project with error injection and error-control logic.
+---
 
-Tech: Java · Networking
+### 🌐 Data Communication Project
 
-🧰 Technologies
+Java-based client/server communication project demonstrating error injection and error detection techniques.
 
-Languages
+**Features:**
 
-C# Java PHP JavaScript SQL HTML CSS
+- Socket programming
+- Client-server communication
+- Parity control
+- Checksum
+- CRC16
+- Error injection
 
-Backend & Platforms
+**Tech:** Java · Networking
 
-.NET ASP.NET Core
+🔗 [View Repository](https://github.com/bayramruveyda/data-communication-project)
 
-Data & Tools
+---
 
-Git GitHub DXF OBJ
+## 🧰 Technologies
 
-📌 Current Focus
+### Languages
 
-Backend development
+`C#` `Java` `PHP` `JavaScript` `SQL` `HTML` `CSS`
 
-Parametric geometry applications
+### Backend & Platforms
 
-Web-based engineering tools
+`.NET` `ASP.NET Core`
 
-2D / 2.5D / 3D geometry visualization
+### Databases
 
-🌍 Portfolio
+`SQLite` `MySQL`
 
-Personal portfolio repository: bayramruveyda.github.io
+### Tools & Technologies
 
-📫 GitHub
+`Git` `GitHub` `DXF` `OBJ`
 
-@bayramruveyda
+---
+
+## 📌 Current Focus
+
+- Backend Development
+- Web Development
+- Parametric Geometry Applications
+- Web-Based Engineering Tools
+- 2D / 2.5D / 3D Geometry Visualization
+
+---
+
+## 🌍 Portfolio
+
+🌐 [Visit My Portfolio](https://bayramruveyda.github.io)
+
+---
+
+## 📫 Connect With Me
+
+🐙 [GitHub](https://github.com/bayramruveyda)
