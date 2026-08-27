@@ -2,7 +2,7 @@
 I build software projects focused on backend development, web applications, data communication, and parametric geometry.
 
 ## 🚀 Featured Projects
-🚪 Drawing Automation
+### 🚪 Drawing Automation
 
 Parametric door geometry and technical drawing application built with ASP.NET Core.
 
